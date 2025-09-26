@@ -5,13 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching (Winter 2025) ##
+## Current Teaching (Fall 2025) ##
 * PIC 16A, Python with Applications I
 
 ## Previous Teaching ##
 
 **At UCLA:**
-* PIC 16A, Python with Applications I (Fall 2023)
+* PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025)
 * PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
 * Math 156, Machine Learning (Summer 2024)
 
@@ -28,6 +28,10 @@ author_profile: true
 * Math 401, Advanced Engineering Mathematics, Spring 2019
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
+
+## Mentoring ##
+* Academic Mentor, 2024 Research in Industrial Projects for Students (RIPS), Institue for Pure & Applied Math (IPAM), Project: Development of system identification tools for precise control of motors
+* Academic Mentor, 2025 Research in Industrial Projects for Students (RIPS), Institue for Pure & Applied Math (IPAM), Project: Leveraging Large Language Models to Enhance Survey Data
 
 ## Notes ##
 
