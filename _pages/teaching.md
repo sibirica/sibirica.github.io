@@ -17,7 +17,8 @@ author_profile: true
 
 **At Texas A&M:**
 * Instructor, Math 140, Mathematics for Business and Social Sciences, Fall 2021.
-<!---* TA, Math 609,  Numerical Analysis, Fall 2020. 
+<!---*
+* TA, Math 609,  Numerical Analysis, Fall 2020. 
 * TA, Math 152, Engineering Mathematics II, Fall 2019, Spring 2021.
 * TA, Math 664, Topics in Mathematical Data Science, Spring 2022.
 * TA, Qualifying Exam Preparation course (Applied Mathematics), Summer 2022.
