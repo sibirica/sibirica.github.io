@@ -24,13 +24,14 @@ Education
 =====
 * Ph.D in Mathematics, Texas A&M University, 2018 - 2023
 * M.S. in Mathematics, Texas A&M University, 2016 - 2018
-* B.S. in Applied Mathematics, Dalian Maritime University, 2012 - 2016
+<!-- * B.S. in Applied Mathematics, Dalian Maritime University, 2012 - 2016 -->
 
 Research Interest
 =====
-* Mathematics of Data Science
 * Approximation Theory
-* (Deep) Learning Theory
+* High-dimensional Probability
+* Scientific Machine Learning
+* Data Science
 
 Contact Info
 =====
