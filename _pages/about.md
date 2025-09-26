@@ -14,9 +14,11 @@ About Me
 =====
 I am a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://www.math.ucla.edu/people/ladder/hayden" target="_blank">Hayden Schaeffer</a>. I was a graduate student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
 
-My research interests are Mathematics of Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections. 
+My research interests are Approximation Theory, High-dimensional Probability and in particular their applications in Scientific Machine Learning and Data Science. 
 
 You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. 
+
+I am currently looking for a tenure-track position starting from Fall 2026.
 
 Education
 =====
