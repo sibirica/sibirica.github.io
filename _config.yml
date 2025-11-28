@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Chunyang Liao"
-  avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
+  avatar           : "bio-picture.JPG"
+  bio              : 
+  location         : "Los Angeles, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Chunyang-Liao"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chunyang-liao-75225b137/"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0001-8359-1747"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
