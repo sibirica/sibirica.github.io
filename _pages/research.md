@@ -12,7 +12,7 @@ Scientific machine learning (SciML) promises to revolutionize our understanding 
 
 Historically, partial differential equations (PDEs) have been one of the primary languages for writing down the governing laws of physical systems. My [doctoral dissertation](https://github.com/sibirica/PySPIDER/blob/main/DG_Dissertation.pdf) addresses the problem of automating the discovery of complete PDE models from experimental measurements. Unlike other approaches, SPIDER identifies tensor-valued equations that explicitly respect the symmetries of the system. Moreover, it furnishes a systematic procedure for constructing and manipulating symbolic tensor expressions using a custom computer algebra system. This allows SPIDER to search the space of possible relations exhaustively and expand the set of learned equations by deductive reasoning, requiring only minimal user guidance.
 
-<img src="/images/SPIDER_diagram.png" alt="SPIDER schematic" style="width: 100%; height: auto;"/>
+<img src="/images/SPIDER_diagram.png" alt="SPIDER schematic" style="width: 50%; height: auto;"/>
 
 SPIDER is freely available on [GitHub](https://github.com/sibirica/PySPIDER/blob/main/DG_Dissertation.pdf). Please shoot me an email if you have any questions or need help getting set up!
 
