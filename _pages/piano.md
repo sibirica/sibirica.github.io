@@ -10,26 +10,20 @@ Kapustin Etude op.40 no.8:
   (Kapustin Etude op.40 no.8)
 </audio>
 
-<br><br>
-
 Ravel Gaspard de la nuit - mvt.3 (Scarbo):
 <audio controls>  
-  <source src="/files/Scarbo.mp3" type="audio/mpeg" />
+  <source src="/files/Scarbo.mp3" />
   (Ravel Gaspard de la nuit - Scarbo)
 </audio>
 
-<br><br>
-
-Scriabin Sonata no.4
+Scriabin Sonata no.4:
 <audio controls>  
   <source src="/files/Scriabin4.m4a" type="audio/mp4" />
   (Scriabin Sonata no.4)
 </audio>
 
-<br><br>
-
-Chopin Scherzo no.2
+Chopin Scherzo no.2:
 <audio controls>  
-  <source src="/files/CS2.mp3" type="audio/mpeg" />
+  <source src="/files/CS2.mp3" />
   (Chopin Scherzo no.2)
 </audio>
