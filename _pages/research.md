@@ -5,18 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests are Approximation Theory, High-dimensioanl Probability, and in particular their applications in Scientific Machine Learning and Data Science.
+<!--With the explosion in popularity of machine learning in all areas of research,-->
+Scientific machine learning (SciML) promises to revolutionize our understanding of complex science and engineering problems. Rather than constructing mathematical models using trial-and-error human intuition, SciML aims to efficiently uncover quantitatively accurate descriptions directly from data. However, the actual scope of scientific discovery achieved through machine learning remains modest; there is a large gap between the wealth of empirical expertise in learning from relatively unorganized data vs. the centuries of essential domain knowledge describing the structure of real-world physical systems. My work aims to develop tools that better bridge this gap.
 
-## Optimal Recovery ##
+## Sparse Physics-Informed Discovery of Empirical Relations (SPIDER) ##
 
-Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewed as a nonstatistical learning Theory. The main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered. The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery. 
+Historically, partial differential equations (PDEs) have been one of the primary languages for writing down the governing laws of physical systems. My [doctoral dissertation](https://github.com/sibirica/PySPIDER/blob/main/DG_Dissertation.pdf) addresses the problem of automating the discovery of complete PDE models from experimental measurements. Unlike other approaches, SPIDER identifies tensor-valued equations that explicitly respect the symmetries of the system. Moreover, it furnishes a systematic procedure for constructing and manipulating symbolic tensor expressions using a custom computer algebra system. This allows SPIDER to search the space of possible relations exhaustively and expand the set of learned equations by deductive reasoning, requiring only minimal user guidance.
 
-We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
+<embed src="files/SPIDER-diagram.pdf" type="application/pdf" width="100%" height="600px"/>
 
-**The goal of my research is to make optimal recovery more computational-embracing.** Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
+SPIDER is freely available on [GitHub](https://github.com/sibirica/PySPIDER/blob/main/DG_Dissertation.pdf). Please shoot me an email if you have any questions or need help getting set up!
 
-## Scientific Machine Learning ##
+## Multiscale attention ##
 
-Scientific machine learning (SciML) is a a rapidly merging field where people apply machine learning techniques to solve complex problems in science and engineering. 
-It bridges the gap between traditional approaches that rely on explicit physical laws, and modern machine learning techniques that derive patterns from data. 
-**The goal of my research is to provide theoretical analysis on various machine models and to develop efficient numerical method for various scientific machine learning problems.**
+Real-world data generally contain hierarchical multiscale structures that are essential to proper interpretation. For instance, fluid turbulence is characterized by self-similar vortices spanning length scales across multiple orders of magnitude, while its molecular description involves both rapid thermal fluctuations and much slower coherent flow patterns. 
+
+At the same time, transformers have emerged as one of the dominant architectures for modeling temporal data, even though they have notoriously poor computational scaling for long sequences and tend to "forget" long-range correlations. (For instance, in language modeling, they may achieve high accuracy on a sentence or paragraph level, but not necessarily in modeling the meaning across chapters.) In this project, I am developing machine learning models that are intrinsically hierarchical and self-similar, learning features of the data across all relevant scales and efficiently mixing information across these scales.
