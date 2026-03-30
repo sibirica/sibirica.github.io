@@ -5,14 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!--- **PIC 20A, Principles of Java Language with Applications** -->
-
-## Current Teaching (Fall 2025) ##
-* PIC 16B, Python with Applications II
+## Current Teaching (Spring 2026) ##
+* PIC 20A, Principles of Java Language with Applications
+* MATH 61, Introduction to Discrete Structures
 
 ## Previous Teaching ##
 
-<!--- **At UCLA:** --->
+**At UCLA:**
+* PIC 20A, Principles of Java Language with Applications (Winter 2026)
+* PIC 16B, Python with Applications II (Fall 2025)
 
 **At Princeton:**
 * TA, APC 350, Introduction to Differential Equations, Spring 2025
